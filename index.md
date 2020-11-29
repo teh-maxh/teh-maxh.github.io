@@ -1,3 +1,4 @@
 ### Highlighted projects
 
-* [NSA-Header](https://github.com/teh-maxh/nsa-header)
+* [Add NSA Header](https://github.com/teh-maxh/add-nsa-header)
+* [Scripts](https://github.com/teh-maxh/scripts)
